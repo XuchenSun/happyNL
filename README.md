@@ -1,7 +1,7 @@
 # happyNL.net 
 
 
-# GroupMember Xuchen Sun & Sigan Sun
+# GroupMember Xuchen Sun(develope) & Sigan Sun(test)
 
 # Kanban Board(Agile Development Environment)
 | Backlog | Progress | Test |
