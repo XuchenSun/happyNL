@@ -8,7 +8,7 @@
 |      :---   |     :---:      |          ---: |
 | 1Config Web Development   | Finished(Xuchen)     | Pass(Sigan)    |
 | 2Welcome Page     | Finished(Xuchen)       | Pass(Sigan)      |
-| 3Submit Document     | Finished(Xuchen)       | Issue(Sigan)      |
+| 3Function of Submission Document     | Finished(Xuchen)       | Issue(Sigan)      |
 
 
 # 1 Config Web Development
