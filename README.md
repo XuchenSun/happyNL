@@ -13,13 +13,16 @@
 
 # 1 Config Web Development and Deployment Environment
 development result: Ubuntu+Apche2+PHP+MySQL
+
 test result: Pass
 # 2 Welcome Page 
 development result:
 ![]()
+
 test result: Pass
 # 3 Submit Document
 development result:
 ![]()
+
 test result: Issue
 Function of submission has errors 
