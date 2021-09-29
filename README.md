@@ -8,13 +8,13 @@
 |      :---   |     :---:      |          ---: |
 | 1Config Web Development   | Finished(Xuchen)     | Pass(Xuchen)    |
 | 2Welcome Page     | Finished(Xuchen)       | Pass(Xuchen)      |
-| 3Main Character Design     | Finished(Xuchen)       | Pass(Xuchen)      |
+| 3Submit Document     | Finished(Xuchen)       | Pass(Xuchen)      |
 
 
-# 1Pre Map Design
+# 1 Config Web Development
 ![]()
 
-# 2Enemy1 
+# 2 Welcome Page 
 ![]()
-# 3Main Character Design
+# 3 Submit Document
 ![]()
