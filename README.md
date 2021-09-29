@@ -17,7 +17,7 @@ development result: AWS EC2(Ubuntu+Apche2+PHP+MySQL)+Tecent Cloud(Domain+DNS+SSL
 test result: Pass
 # 2 Welcome Page 
 development result: finish frame and add functions one by one in the next
-![]()
+![](https://github.com/XuchenSun/happyNL/blob/main/development/welcompage.png)
 
 test result: Pass
 # 3 Submit Document
