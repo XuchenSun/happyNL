@@ -12,7 +12,7 @@
 
 
 # 1 Config Web Development and Deployment Environment
-development result: Ubuntu+Apche2+PHP+MySQL
+development result: AWS EC2(Ubuntu+Apche2+PHP+MySQL)+Tecent Cloud(Domain+DNS+SSL)
 
 test result: Pass
 # 2 Welcome Page 
