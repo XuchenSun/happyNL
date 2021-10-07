@@ -12,6 +12,7 @@
 | 2Welcome Page     | Finished(Xuchen)       | Pass(Sigan)      |
 | 3Function of Submission Document     | Finished(Xuchen)       | Issue(Sigan)      |
 | 3.1 Debug     | Finished(Xuchen)       | Issue(Sigan)      |
+| 4 Download function     | Finished(Xuchen)       |       |
 
 
 # 1 Config Web Development and Deployment Environment
