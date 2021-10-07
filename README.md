@@ -30,5 +30,5 @@ development result:
 test result: Issue
 Function of submission has errors 
  
-3.1 Debug
+3.1 Debug  Chmod command in Apache2
 
