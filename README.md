@@ -32,3 +32,7 @@ Function of submission has errors
  
 3.1 Debug  Chmod command in Apache2
 
+# 4 Submit Document
+
+finish download lease agreement function
+
