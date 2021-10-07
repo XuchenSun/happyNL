@@ -11,6 +11,7 @@
 | 1Config Web Development   | Finished(Xuchen)     | Pass(Sigan)    |
 | 2Welcome Page     | Finished(Xuchen)       | Pass(Sigan)      |
 | 3Function of Submission Document     | Finished(Xuchen)       | Issue(Sigan)      |
+| 3.1 Debug     | Finished(Xuchen)       | Issue(Sigan)      |
 
 
 # 1 Config Web Development and Deployment Environment
@@ -28,3 +29,6 @@ development result:
 
 test result: Issue
 Function of submission has errors 
+ 
+3.1 Debug
+
